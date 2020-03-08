@@ -1,0 +1,16 @@
+\\Mac\Home\Desktop\voicerecorder-master\VoiceRecorder.Audio\bin\Debug\VoiceRecorder.Audio.dll
+\\Mac\Home\Desktop\voicerecorder-master\VoiceRecorder.Audio\bin\Debug\VoiceRecorder.Audio.pdb
+\\Mac\Home\Desktop\voicerecorder-master\VoiceRecorder.Audio\bin\Debug\NAudio.dll
+\\Mac\Home\Desktop\voicerecorder-master\VoiceRecorder.Audio\bin\Debug\NAudio.xml
+\\Mac\Home\Desktop\voicerecorder-master\VoiceRecorder.Audio\obj\Debug\VoiceRecorder.Audio.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\voicerecorder-master\VoiceRecorder.Audio\obj\Debug\VoiceRecorder.Audio.csproj.CopyComplete
+\\Mac\Home\Desktop\voicerecorder-master\VoiceRecorder.Audio\obj\Debug\VoiceRecorder.Audio.dll
+\\Mac\Home\Desktop\voicerecorder-master\VoiceRecorder.Audio\obj\Debug\VoiceRecorder.Audio.pdb
+C:\Users\miste\source\repos\TestMicrophone\VoiceRecorder.Audio\bin\Debug\VoiceRecorder.Audio.dll
+C:\Users\miste\source\repos\TestMicrophone\VoiceRecorder.Audio\bin\Debug\VoiceRecorder.Audio.pdb
+C:\Users\miste\source\repos\TestMicrophone\VoiceRecorder.Audio\bin\Debug\NAudio.dll
+C:\Users\miste\source\repos\TestMicrophone\VoiceRecorder.Audio\bin\Debug\NAudio.xml
+C:\Users\miste\source\repos\TestMicrophone\VoiceRecorder.Audio\obj\Debug\VoiceRecorder.Audio.csprojAssemblyReference.cache
+C:\Users\miste\source\repos\TestMicrophone\VoiceRecorder.Audio\obj\Debug\VoiceRecorder.Audio.csproj.CopyComplete
+C:\Users\miste\source\repos\TestMicrophone\VoiceRecorder.Audio\obj\Debug\VoiceRecorder.Audio.dll
+C:\Users\miste\source\repos\TestMicrophone\VoiceRecorder.Audio\obj\Debug\VoiceRecorder.Audio.pdb
