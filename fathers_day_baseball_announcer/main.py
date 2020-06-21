@@ -2,8 +2,9 @@ import pause
 from datetime import datetime
 from pygame import mixer 
 from time import sleep
+
 ## Schedule task to run 1x per day in the morning / early afternoon 
-##  with `chron` on Linux. 
+##  with `cron` on Linux. 
 ## Announce task will be executed later that day. 
 
 def findBaseballGameTime(): 
