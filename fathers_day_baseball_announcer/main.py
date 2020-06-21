@@ -10,8 +10,8 @@ def findBaseballGameTime():
     return "21:50"
 
 def announceGameStart(baseballGameTime): 
-    print("Got time: " + baseballGameTime)
     print("Starting announce process.")
+    print("Got time: " + baseballGameTime)
 
     hourMin = baseballGameTime.split(':')
 
@@ -22,11 +22,14 @@ def announceGameStart(baseballGameTime):
     pause.until(gameStartDate)
 
     ## Finally, play audio file. 
+    print("Announcing...")
     mixer.init() 
     mixer.music.load('audio.mp3')
     mixer.music.play() 
 
     sleep(15)
+
+    print("Goodbye!")
 
 
 announceGameStart(findBaseballGameTime())
