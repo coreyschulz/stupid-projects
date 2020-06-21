@@ -6,11 +6,8 @@ from time import sleep
 ##  with `chron` on Linux. 
 ## Announce task will be executed later that day. 
 
-
-
 def findBaseballGameTime(): 
-    return "21:26"
-
+    return "21:50"
 
 def announceGameStart(baseballGameTime): 
     print("Got time: " + baseballGameTime)
@@ -29,9 +26,7 @@ def announceGameStart(baseballGameTime):
     mixer.music.load('audio.mp3')
     mixer.music.play() 
 
-    sleep(20)
-
-
+    sleep(15)
 
 
 announceGameStart(findBaseballGameTime())
