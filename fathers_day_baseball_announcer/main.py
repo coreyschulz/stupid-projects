@@ -14,10 +14,11 @@ def announceGameStart(baseballGameTime):
     print("Starting announce process.")
     print("Got time: " + baseballGameTime)
 
-    hourMin = baseballGameTime.split(':')
+    colonSepDate = baseballGameTime.split(':')
 
     currentDate = datetime.now() 
-    gameStartDate = currentDate.replace(hour = int(hourMin[0]), minute = int(hourMin[1]), 
+    gameStartDate = currentDate.replace(year = int(colonSepDate[2]), month = int(colonSepDate[0]), day = int(colonSepDate[1]),
+        hour = int(colonSepDate[3]), minute = int(colonSepDate[4]), 
         second = 0, microsecond = 0)
     
     pause.until(gameStartDate)
@@ -30,7 +31,11 @@ def announceGameStart(baseballGameTime):
 
     sleep(15)
 
-    print("Goodbye!")
+    print("Finished.")
 
 
-announceGameStart(findBaseballGameTime())
+
+gameTimes = ["06:28:2020:19:32"]
+
+for time in gameTimes: 
+    announceGameStart(time)
