@@ -16,4 +16,4 @@ def random_caps(input_string):
 
     return ret 
 
-print(random_caps("Okay! I'll leave in ~20 mintes? I'm going to take a quick-ish shower; you know how it is being a domestic god all day"))
+print(random_caps("put your sentence here."))
